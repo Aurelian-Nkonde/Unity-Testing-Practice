@@ -1,0 +1,15 @@
+C:\Users\Aconte\Desktop\SimpleTDDApp\SimpleTDDApplication\bin\Debug\net6.0\SimpleTDDApplication.exe
+C:\Users\Aconte\Desktop\SimpleTDDApp\SimpleTDDApplication\bin\Debug\net6.0\SimpleTDDApplication.deps.json
+C:\Users\Aconte\Desktop\SimpleTDDApp\SimpleTDDApplication\bin\Debug\net6.0\SimpleTDDApplication.runtimeconfig.json
+C:\Users\Aconte\Desktop\SimpleTDDApp\SimpleTDDApplication\bin\Debug\net6.0\SimpleTDDApplication.dll
+C:\Users\Aconte\Desktop\SimpleTDDApp\SimpleTDDApplication\bin\Debug\net6.0\SimpleTDDApplication.pdb
+C:\Users\Aconte\Desktop\SimpleTDDApp\SimpleTDDApplication\obj\Debug\net6.0\SimpleTDDApplication.csproj.AssemblyReference.cache
+C:\Users\Aconte\Desktop\SimpleTDDApp\SimpleTDDApplication\obj\Debug\net6.0\SimpleTDDApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aconte\Desktop\SimpleTDDApp\SimpleTDDApplication\obj\Debug\net6.0\SimpleTDDApplication.AssemblyInfoInputs.cache
+C:\Users\Aconte\Desktop\SimpleTDDApp\SimpleTDDApplication\obj\Debug\net6.0\SimpleTDDApplication.AssemblyInfo.cs
+C:\Users\Aconte\Desktop\SimpleTDDApp\SimpleTDDApplication\obj\Debug\net6.0\SimpleTDDApplication.csproj.CoreCompileInputs.cache
+C:\Users\Aconte\Desktop\SimpleTDDApp\SimpleTDDApplication\obj\Debug\net6.0\SimpleTDDApplication.dll
+C:\Users\Aconte\Desktop\SimpleTDDApp\SimpleTDDApplication\obj\Debug\net6.0\refint\SimpleTDDApplication.dll
+C:\Users\Aconte\Desktop\SimpleTDDApp\SimpleTDDApplication\obj\Debug\net6.0\SimpleTDDApplication.pdb
+C:\Users\Aconte\Desktop\SimpleTDDApp\SimpleTDDApplication\obj\Debug\net6.0\SimpleTDDApplication.genruntimeconfig.cache
+C:\Users\Aconte\Desktop\SimpleTDDApp\SimpleTDDApplication\obj\Debug\net6.0\ref\SimpleTDDApplication.dll
